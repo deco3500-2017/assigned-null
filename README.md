@@ -1,6 +1,6 @@
 # assigned-null
 
-Team Members:
+*Team Members:
 *Jaymes Branch
 *Wes Clarke
 *Shashank Gururaj
