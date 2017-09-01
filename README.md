@@ -150,7 +150,7 @@ The project “StudyMates” has been finalized on week 6 and project proposal h
 |8 			|	Design Backend Topology								|	Daniel Burke, Shashank Gururaj	|
 |9			|	Paper Prototype User Testing						|	Jaymes Branch, Daniel Burke		|
 |9			|	Backend/Frontend Integration Plan					|	Wes Clarke, Shashank Gururaj	|
-|10(start) 	|	*Stand up 2: Design Finalised*						|	Everyone 						|
+|10 (start) 	|	*Stand up 2: Design Finalised*						|	Everyone 						|
 |			|	**Construction**										|									|
 |10			|	UI Implementation									|	Wes Clarke, Jaymes Branch		|
 |10			|	Backend Implementation								|	Daniel Burke, Shashank Gururaj	|
