@@ -164,6 +164,7 @@ Our Project will be development will consist of 3 main phases:
 * Requirement Gathering and Analysis
 * Design
 * Construction
+
 Requirement gathering and Analysis: Here we finalize the features and analyze the requirements and document the analysis. This will be achieved by conducting interviews with our target audience to identify what incentives group study among students and what tools they need to help them achieve this. This will also help us identify any pain points students have with group study. We will also be analysing various prototyping tools and selecting those which we believe to be most appropriate.
 The deadline for this phase is week 8.
 
