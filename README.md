@@ -5,7 +5,7 @@
 **Note:** assigned-null for github
 
 
-**Study Mates** is a simple solution to find other people to meet and study with, whether it be another individual or a group.
+**Study mates** is a simple solution to find other people to meet and study with, whether it be another individual or a group.
 
 ### **Contributors** <br />
 
@@ -32,9 +32,9 @@ Education and technology evolve together constantly, with educational institutio
 ### 2.1 Rationale 	
 Study Mates is a Mobile application that enables university students to connect with each other to study. It aims to address two issues that students face while at university, studying effectively and meeting like minded people. 
 
-Common problems with studying include both procrastination and filling in gaps in understanding. People have struggled with procrastination going back to ancient civilisations. The Greek poet Hesiod, had cautioned not to “put your work off till tomorrow and the day after”, way back around 800 B.C. Given the rise of the internet and mobile devices it is clear that procrastination is as rampant as ever. While being alone you can always find ways to rationalise postponing the start of your study, i.e checking facebook, watching youtube while you eat. 
+Common problems with studying include both procrastination and filling in gaps in understanding. People have struggled with procrastination going back to ancient civilisations. The Greek poet Hesiod, had cautioned not to “put your work off till tomorrow and the day after”, way back around 800 B.C. Given the rise of the internet and mobile devices it is clear that procrastination is rampant and easier than ever. While being alone you can always find ways to rationalise postponing the start of your study, i.e checking facebook, emails and watching youtube in frequent small breaks. 
 
-Study groups have been known to address the issue of procrastination while also providing plenty of benefits to participants. Studying alone can seem very monotonous and draining and it is often this idea that makes study unattractive by yourself. While studying in a group makes learning feel more enjoyable, fulfilling and engaging given its social nature. Another important benefit of group study is that it shares individual's unique talents and insights, allowing group members to learn from each other to fill in gaps in their knowledge. While those teaching, are able to reinforce their own knowledge.  
+Study groups have been known to address the issue of procrastination while also providing plenty of other benefits to participants. Studying alone can seem very monotonous and draining, it is often this idea that makes study unattractive when alone. Whereas studying in a group makes learning feel more enjoyable, fulfilling and engaging given its social nature. Another important benefit of group study is that it shares individual's unique talents and insights, allowing group members to learn from each other to fill in gaps in their knowledge. While those who help others by teaching them concepts are able to reinforce their own knowledge.  
 
 The benefit of study mates is that it makes it easy for students to form study groups to significantly improve their study habits while connecting like minded people to help create lasting connections.
 
@@ -47,12 +47,14 @@ The benefit of study mates is that it makes it easy for students to form study g
 
 
 
+
+
 ### 2.2 Features
-* Profile: user creates a profile, specifying courses they are taking. Campus they are on.
-* A Student can start a study group by advertising their location and specifying what topic or area they wish to study and the duration. 
+* Profile: user creates a profile, specifying courses they are taking and the campus they are on.
+* A Student can start a study group by displaying their location and specifying what topic or area they wish to study and the duration. 
 * Students are then able to search for groups by filtering on topic/subject area and enter that study group 
-* Chat: chat feature lets students get more information about the study group before they join it to see if it is compatible with their timeline and the kind of study they wish to do. I.e Place, Timing, Content 
-* Navigation: Through GPS to help students find their study group
+* Chat: The chat feature lets students get more information about the study group before they join it to see if it is compatible with their timeline and the kind of study they wish to do. I.e Place, Timing, Content 
+* Navigation: Utilizes GPS geolocation to help students find their study group.
 * Notification: students can opt in to being notified when a study group for a course they are taking is available.  
 * Security: communicate with universities so that students can only connect through active uni emails. Enables a sense of security for students as they know that only other university students are using the app. Also enables us to provide filtering features based on course codes.
 
@@ -64,16 +66,14 @@ The benefit of study mates is that it makes it easy for students to form study g
 
 
 ### 2.4 Audience 
-The target audience for study mates is for tertiary level students.This is because the university environment supports group study by providing access to rooms and tables which groups can be stationed at. Also University can tend to isolate students as even if friends are attending the same university they may not be taking the same course, so finding new friends or groups to study can be difficult. Study mates helps bridge this by providing a platform that allows students to meet new people within their course.
+The target audience for study mates is tertiary level students.This is because the university environment supports group study by providing access to rooms and tables which groups can be stationed at. Also compared to schools, university can tend to isolate students. Because even if friends are attending the same university they may not be taking the same course, so finding new friends or groups to study with can be difficult. Study mates helps bridge this by providing a platform that allows students to meet new people within their course.
+
+
+
+
 
 ### 2.5 Context of Use
-Essentially the individual will use the app in a mobile setting as they will intend to meet up while on the go. Each individual has the ability to search for existing groups, or to create a new one. Location is integrated with the use of a map api, making use of the mobile gps to both share and find locations. Use
-
-
-
-
-
-
+Students will use the app in a mobile setting as it is easier to meet up while on the go. Each individual has the ability to search for existing groups, or to create a new one. Location is integrated with the use of a map api, making use of the mobile GPS to both share and find locations. For example, a student named Roger may finish a lecture at 11:00AM and have to wait around until 1:00PM until his next class. While he waits he buys some lunch while setting an active group meeting to his location. Interested students, some of which may have attended his previous lecture can meet up and discuss concepts related to his chosen topic.
 
 ### 2.6 Prior Art
 
@@ -90,8 +90,6 @@ This application has a much smaller install base at 10,000 - 50 000 installs but
 
 
 
-### ////2.7 Social & Mobile Theory
-
 
 
 
@@ -102,7 +100,7 @@ This application has a much smaller install base at 10,000 - 50 000 installs but
 
 **Daniel Burke**  
 
-Daniel is pursuing Masters in IT (DECO7350) and he will be leading the team and will be responsible for managerial decisions of the project. He will be responsible for making the project plan and finalizing the features of our project, dividing the features into modules and assigning work for all team members each week. He will also be responsible for keeping track of the progress of the team and shall be point of contact for the tutors. He will also be working as a back-end developer and support the team in developing the project.  
+Daniel is pursuing his Masters in IT (DECO7350) and he will be leading the team and will be responsible for managerial decisions of the project. He will be responsible for making the project plan and finalizing the features of our project, dividing the features into modules and assigning work for all team members each week. He will also be responsible for keeping track of the progress of the team and shall be point of contact for the tutors. He will also be working as a back-end developer and support the team in developing the project.  
 
 **Jaymes Branch**  
 
@@ -118,23 +116,24 @@ Wes is pursuing his Bachelors in Software Engineering (Course Code: DECO3500) an
 
 
 ### 3.1 Decision Making
-Key decisions will be made during workshops and weekly catchup meetings. Decisions will be made based upon examining the ideas/feasibility/supporting documents. If every team member is not convinced by the idea, then decision will be made by voting within the team. The idea with most votes is to be proceeded with. The idea is then reviewed with one of the tutors (if it’s a key decision) and worked on upon approval/advises provided.
+Key decisions will be made during workshops and weekly catch up meetings. Decisions will be made based upon examining the ideas/feasibility/supporting documents. If a team member is not convinced by the idea, then decision will be made by voting within the team. The idea with most votes will be selected for development. Although it is first reviewed with one of the tutors (if it’s a key decision) and worked on upon approval with provided feedback.
  
 ### 3.2 Minor Issues
-If the team is lagging, initially the team will consult with one of the tutors to find the optimum way to correctly get to pace. The next plan would be for the team leader (Daniel) to set short and frequent milestones for each team member. Each member will update the team on the progress of the work twice a week. If one of the team members is unavailable to work on the project for a duration, then the other 3 members divide the person’s work and complete it within a deadline.
+If the team is developing the product too slowly, we will consult with one of the tutors to find a way to get back on track. If that fails, the team leader (Daniel) will set short and frequent milestones for each team member. Every member will update the team on the progress of their work twice a week. If one of the team members is unavailable to work on the project for a duration, then the other 3 members divide the person’s work and complete it within a deadline.
  
 
-
 ### 3.3 Resolving Conflicts
-When a conflict arises within the team, all the team members meet to resolve the conflict. If everyone cannot meet at the same place and the conflict needs urgent attention, then all the team member connects through skype/facetime to resolve the conflict. The views of each member involved in the conflict will be examined/discussed. If the conflict cannot be solved within the team, we shall seek the help of the tutors. Precautions shall be taken to avoid miscommunication which can lead into conflicts (making sure everybody is on the same page during meetings). 
+When a conflict arises within the team, all members meet to resolve the conflict. If a meeting cannot be arranged and the conflict needs urgent attention, then all the team member will connect through skype or facetime to resolve the conflict. The views of each member involved in the conflict will be examined/discussed. If the conflict cannot be solved within the team, we shall seek the help of the course staff. Precautions shall be taken to avoid miscommunication which can lead into conflicts (making sure everybody is on the same page during meetings). 
 
 
 ## 4.0 Communication 
 ### 4.1 Communication methods
-Communication outside workshops will be done in weekly meetings which are scheduled on Tuesdays at 3-4pm at General Purpose South Building, Room 207. If the team is unable to meet on the scheduled time/place. Possibility of meeting and place/time of next meeting is discussed. If everyone in the team is unable to meet physically, then a conference call shall be setup using skype/facetime and the proceedings shall be discussed. Facebook Messenger group is used as the main channel for communication. Flies will be shared through Google Docs. Each file that is uploaded with be name with the following convention: “MemberName_AssignmentName_ModifiedDate_UpdatedTopic”
+Team meetings outside workshops will be done weekly on Tuesdays at 3-4pm at General Purpose South Building, Room 207. If the team is unable to meet on the scheduled time/place, then the details of a replacement meeting will be discussed. If everyone in the team is unable to meet physically, then a conference call will be set up using skype/facetime and the proceedings shall be discussed. Facebook Messenger group is used as the main channel for communication. Flies will be shared through Google Docs. Each file that is uploaded with be name with the following convention: “MemberName_AssignmentName_ModifiedDate_UpdatedTopic”
  
 ### 4.2 Reason for choice of Social Platforms
-Facebook messenger is a very popular convenient way to communicate by allowing its users to add documents/media into the chat which can help in providing better explanations. Most people have been using it and familiar with it. Google docs has been chosen for file sharing due to 2 main reasons. One being that it is integrated with google drive which allows its users to create multiple folders and has a huge storage space. The Folder structure is like windows folder structure and easy to understand/modify. It is very easy to share a folder or file with multiple people. Second is that a file on google docs can be updated simultaneously by 2 or more people whom it is shared with. This prevents multiple files being created and the hassle of integrating them. 
+Facebook Messenger is a very popular and convenient way to communicate between team members. This is due to the fact that most people have facebook downloaded on their phones and check it regularly. Which is also beneficial because people will not have to learn how to use the system. Messenger allows users to add documents/media into the chat which can help in providing better explanations between members of a group. 
+
+Google docs has been chosen for file sharing due to two main reasons. One being that it is integrated with google drive, which allows its users to create multiple folders and has a huge storage space. The Folder structure is like windows folder structure and easy to understand/modify. It is very easy to share a folder or file with multiple people. Second is that a file on google docs can be updated simultaneously by 2 or more people whom it is shared with. This prevents multiple files being created and the hassle of integrating them. 
 
 ## 5.0 Plan
 The project “StudyMates” has been finalized on week 6 and project proposal has been submitted for the same. The delivery date for the design prototype is on week 13 which includes Documentation, prototype and promo material. However, there are 3 standups on weeks 8, 10 and 12. Here goes our plan:
@@ -165,13 +164,13 @@ Our Project will be development will consist of 3 main phases:
 * Design
 * Construction
 
-Requirement gathering and Analysis: Here we finalize the features and analyze the requirements and document the analysis. This will be achieved by conducting interviews with our target audience to identify what incentives group study among students and what tools they need to help them achieve this. This will also help us identify any pain points students have with group study. We will also be analysing various prototyping tools and selecting those which we believe to be most appropriate.
+Requirement gathering and Analysis: Here we analyze the requirements and conceptualise features to add into the product. We will achieve this by conducting interviews with our target audience to identify what incentivises group study among them. As well as what tools/features they will need to help them achieve this. This will also help us identify any pain points that students have related to group study. We will also be analysing various prototyping tools and selecting those which we believe to be most appropriate for development.
 The deadline for this phase is week 8.
 
-Design: Here we build the high level and low-level designs of the project and document the same. The deadline for this phase is week 10. This also requires collaboration between or front-end and back-end developers to coordinate the integration of these parts for a seamless integration.
+Design: In the design phase we build the high level and low-level designs of the project and document the details. The deadline for this phase is week 10. This also requires collaboration between or front-end and back-end developers to coordinate the development of these parts for a seamless integration.
 The deadline for this phase is week 10
 
-Construction: The prototype shall be built in the phase and document the same. and documentation for the same. Once the prototype has been implemented, time will be available to refine the implementation. This will be conducted with further user testing if time permits or in-house testing to help finalise the implementation. 
+Construction: The prototype shall be built, tested and documented in this phase. Once the first iteration of prototype has been developed there will be time will be available to refine the implementation. This will be conducted with further user testing if time permits or in-house testing to help finalise the implementation. 
  The deadline for this phase is week 12.
  
 
