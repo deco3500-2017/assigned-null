@@ -170,7 +170,7 @@ The deadline for this phase is week 8.
 Design: In the design phase we build the high level and low-level designs of the project and document the details. The deadline for this phase is week 10. This also requires collaboration between or front-end and back-end developers to coordinate the development of these parts for a seamless integration.
 The deadline for this phase is week 10
 
-Construction: The prototype shall be built, tested and documented in this phase. Once the first iteration of prototype has been developed there will be time will be available to refine the implementation. This will be conducted with further user testing if time permits or in-house testing to help finalise the implementation. 
+Construction: The prototype shall be built, tested and documented in this phase. Once the first iteration of prototype has been developed there will be time available to refine the implementation. This will be conducted with further user testing if time permits or in-house testing to help finalise the implementation. 
  The deadline for this phase is week 12.
  
 
