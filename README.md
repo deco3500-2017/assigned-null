@@ -1,7 +1,7 @@
 # assigned-null
 
 Team Members:
-Jaymes Branch
-Wes Clarke
-Shashank Gururaj
-Daniel Bruke
+*Jaymes Branch
+*Wes Clarke
+*Shashank Gururaj
+*Daniel Bruke
