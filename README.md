@@ -74,7 +74,7 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |4. User proceeds to create a new study group| 5. System updates to reflect successful input of new group|
 |**Post Condition(s)**| |
 
-* Someone wishing to tutor
+**Someone wishing to tutor*
 |**Individual wishing to tutor**| |
 |---|----|
 |Primary Actor| UQ Tutor|
@@ -87,7 +87,6 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |-----|-------|
 |1. Individual wishes to provide tutoring services|  |
 |1.1 Individual proceeds to begin to input details | 2. Systems verifies the validity of details|
-
 | |3. System udates and reflects new tutor offering|
 |**Post Condition(s)**| |
 
@@ -104,7 +103,6 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |-----|-------|
 |1. Group wishes to extended its services to further individuals|  |
 |1.1 Individual on behalf of group allows group viewing to be public | 2. Systems reflects study group and allows to be viewed by public (or those meeting criteria)|
-
 | 3. Individual acting on behalf of group views requests to join| 4. System updates and reflects new individual requests|
 |5. Individual acting on behalf of group accepts invitation| 6. System shows new individual in group and includes in group activity|
 |**Post Condition(s)**| |
@@ -115,9 +113,11 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |--|--|
 |Rationale| The ability to create a user account for either finding other students to study with, creating a study group or displaying Tutor services is an essential (mandatory) task that individuals must be able to perform to be able to interact with the application |
 |Goal| Testing whether an individual can create the necessary account |
-|Steps|  |
-|Result| |
-Pass/Fail Criteria| |
+|Steps| 1. User to download application |
+| | 2. User to fill in details to create account|
+| | 3. User to verify account (UQ verification via uq email)|
+|Result| Time to complete task and whether successful or not|
+|Pass/Fail Criteria| Under 5 mins and  successful verification|
 
 ## Storyboard
 ## Basic Design Prototype
@@ -360,6 +360,9 @@ The course content itself works as an ice breaker, as does having many people in
 ![image3](https://imgur.com/48hI8rR.png)
 ![image4](https://imgur.com/w81Bc4A.png)
 ![image5](https://imgur.com/TeIaeuP.png)
+
+
+
 
 
 
