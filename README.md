@@ -18,10 +18,10 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 
 
 
-#Week 8 Update
-###12/09/2017
+# Week 8 Update
+### 12/09/2017
 
-##To Do before next standup deliverable
+## To Do before next standup deliverable
 * Vertical/Horizontal Prototype (Adobe XD || Framework 7)
 * User testing
 * 
