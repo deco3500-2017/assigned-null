@@ -51,6 +51,7 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |Precondition(s)| Primary actor must have registered an account and also have logged in|
 
 **Sequence of Events**
+
 |**Actor Stimulus**| **System Response**|
 |-----|-------|
 |1. Individual is has no one to study with|  |
@@ -67,6 +68,7 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |Precondition(s)| Primary actor must have registered an account and also have logged in|
 
 **Sequence of Events**
+
 |**Actor Stimulus**| **System Response**|
 |-----|-------|
 |1. Individual searches to see if appropriate existing group exists|2. Systems returns no existing groups that fulfil users criteria |
@@ -74,7 +76,8 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |4. User proceeds to create a new study group| 5. System updates to reflect successful input of new group|
 |**Post Condition(s)**| |
 
-**Someone wishing to tutor*
+**Someone wishing to tutor**
+
 |**Individual wishing to tutor**| |
 |---|----|
 |Primary Actor| UQ Tutor|
@@ -83,6 +86,7 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |Precondition(s)| Primary actor must have registered an account and also have logged in|
 
 **Sequence of Events**
+
 |**Actor Stimulus**| **System Response**|
 |-----|-------|
 |1. Individual wishes to provide tutoring services|  |
@@ -99,6 +103,7 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |Precondition(s)| Primary actors must have registered an account and also have logged in|
 
 **Sequence of Events**
+
 |**Actor Stimulus**| **System Response**|
 |-----|-------|
 |1. Group wishes to extended its services to further individuals|  |
@@ -108,6 +113,7 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 |**Post Condition(s)**| |
 
 ## Test Cases
+
 **Test Case 1**
 | | |
 |--|--|
