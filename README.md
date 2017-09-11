@@ -115,6 +115,7 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 ## Test Cases
 
 **Test Case 1**
+
 | | |
 |--|--|
 |Rationale| The ability to create a user account for either finding other students to study with, creating a study group or displaying Tutor services is an essential (mandatory) task that individuals must be able to perform to be able to interact with the application |
