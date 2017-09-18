@@ -10,6 +10,12 @@
 
 ## User Testing
 
+## Resources
+* Zone:
+* Interactive web prototype:
+* Google Maps: https://developers.google.com/maps/
+* 
+
 ## Mockups (Screenshots)
 
 ![image1](https://imgur.com/l0D36IW.png)
