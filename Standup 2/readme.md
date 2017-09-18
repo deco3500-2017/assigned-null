@@ -12,7 +12,8 @@
 
 ## Mockups (Screenshots)
 
-![image1](https://imgur.com/a/oapCK)
+![image1](https://imgur.com/l0D36IW)
+![image2](https://imgur.com/WGdX8dW)
 
 
 
