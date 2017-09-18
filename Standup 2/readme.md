@@ -1,15 +1,37 @@
-# Week 8 Update
-### 12092017
+# Week 10 Update
+### 03/10/2017
 
 ## To Do before next standup deliverable
- VerticalHorizontal Prototype (Adobe XD  Framework 7)
- User testing
+ * Final digital prototype
+ * Complete User testing
+ * Complete Final user interviews
+ * Complete Pass/Fail Tests
  
 
-## User Personas
+## User Testing
+
+## Mockups (Screenshots)
+
+![image1](https://imgur.com/a/oapCK)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  Commerce Student  Math Tutor 
  -------------------------------------------
- ìI really wish I could get some helpî - Stacey  ìI find myself trying to help others where I canî - Tim Brooks 
+ ‚ÄúI really wish I could get some help‚Äù - Stacey  ‚ÄúI find myself trying to help others where I can‚Äù - Tim Brooks 
  Key Characteristics  
 Has little time to help others Very Knowledgable on topic
 Needs help and likes to socialize with other students Very generous and thoughtful person
@@ -194,7 +216,7 @@ The course content itself works as an ice breaker, as does having many people in
 
 
 ## User Survey
- ìIf no, why notî 
+ ‚ÄúIf no, why not‚Äù 
  ---
  I focus more when by self. Too distracting to study with others 
  This is my first semester and it is hard for me to find friends to study together 
