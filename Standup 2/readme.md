@@ -19,6 +19,11 @@
 ## User Testing and Interviews
 Continuation of Uset Testing was performed to allow for a greater idea of our progress with Study Mates.
 
+## Minimum Viable Product
+The bare minimum that we plan to roll out for Study mates:
+
+## Storyboard(s)
+(Include image here)
 
 
 
@@ -39,6 +44,66 @@ Continuation of Uset Testing was performed to allow for a greater idea of our pr
 #### iOS
 ![image5](https://imgur.com/82g3zJ4.png)
 
+
+## DECIDE
+### Determine
+-
+### Explore
+-
+### Choose
+-
+### Identify
+-
+### Deal
+-
+### Evaluate
+-
+
+## Test Cases
+| **Test Case 1** |  |
+|---|---|
+| **Rationale** |  |
+| **Goal** |  |
+| **Steps to be performed** |  |
+| **Record Result** |  |
+| **Pass/Fail** |  |
+
+| **Test Case 2** |  |
+|---|---|
+| **Rationale** |  |
+| **Goal** |  |
+| **Steps to be performed** |  |
+| **Record Result** |  |
+| **Pass/Fail** |  |
+
+| **Test Case 3** |  |
+|---|---|
+| **Rationale** |  |
+| **Goal** |  |
+| **Steps to be performed** |  |
+| **Record Result** |  |
+| **Pass/Fail** |  |
+
+| **Test Case 4** |  |
+|---|---|
+| **Rationale** |  |
+| **Goal** |  |
+| **Steps to be performed** |  |
+| **Record Result** |  |
+| **Pass/Fail** |  |
+
+| **Test Case 5** |  |
+|---|---|
+| **Rationale** |  |
+| **Goal** |  |
+| **Steps to be performed** |  |
+| **Record Result** |  |
+| **Pass/Fail** |  |
+
+
+
+
+
 ## Colours, Fonts and Themes
 ### Colours
 
@@ -53,6 +118,7 @@ Continuation of Uset Testing was performed to allow for a greater idea of our pr
 ![font3](https://imgs1.fontbrain.com/imgs/62/9a/55a7e793da068dc580d184cc0e31/sp-720x400-333333-penultimate@2x.png)
 
 ### Themes
+
 
 
 
