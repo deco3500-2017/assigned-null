@@ -2,7 +2,7 @@
 ### 03/10/2017
 
 ## Resources
-* Zone: https://xxxxxxxxx.uqcloud.net
+* Zone: https://study-mates.uqcloud.net/
 * Interactive web prototype: Marvel?
 * Google Maps: https://developers.google.com/maps/
 * Video (interaction): youtube.com/
