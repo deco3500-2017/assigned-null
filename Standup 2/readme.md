@@ -132,15 +132,30 @@ The bare minimum that we plan to roll out for Study mates:
 
 ## Test Protocol
 ### Preperation (before participant arrives)
--
+* Provide a consent form (either printer or digital) for the participant to use
+* Document to record data/observations (either paper or digital document)
+* Video Camera or mobile phone for recording any audio or video
+* Device for the digital prototype
+* Questionaire for participant to fill out (pref Google form, as above)
+
 ### Introduction
--
+* Introduce ourselves (or our group) and a summary of the test to be performed
+* A quick run through about the application and its purpose
+* The participant needs to fill out aforementioned consent form, and participation is voluntary and withdrawal can be performed at any time. There will be no reimbursements nor will there be any penalties for incompletion
+
 ### Observation Task
--
+* Provide the participant with instructions, guiding them through the tasks at hand (i.e asking them to perform a task, notifying when next task is beginning)
+* Record the time taken for the participant to perform tasks. Monitor the body language and movements, look for points of failure
+* Ask the participant to make their thoughts verbal as they progress through the tasks
+
 ### Questionaire
-- Link to questionaire provided in 'resources'
+* Link: https://docs.google.com/forms/d/e/1FAIpQLSdaaOPs-5j2JG1vQ2Vq70YWMqUoDOhVttZLfVqCRad9KAibQQ/viewform
+
 ### Closing
--(Farewells/thanks)
+* Thank the participant for their time
+* Inform them of the benefits of their help, and they are free to view the results of their efforts
+* Remind the participant that their privacy will be upheld, with audio/video being deleted
+* Interpret the results, finalize the task
 
 ## Test Reports
 ### Person_ID: 1
