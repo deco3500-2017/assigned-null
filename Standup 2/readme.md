@@ -65,11 +65,16 @@ The bare minimum that we plan to roll out for Study mates:
 ## Test Cases
 | **Test Case 1** |  |
 |---|---|
-| **Rationale** |  |
-| **Goal** |  |
-| **Steps to be performed** |  |
-| **Record Result** |  |
-| **Pass/Fail** |  |
+| **Rationale** | When searching for a suitable, existing study group, the user needs to be able to view the results. Whether this be in either a list view or in a map view. This will be so that the user can easily filter, with map view being beneficial for location filtering, while list view being suitable for time and other fields. |
+| **Goal** | The goal of the test case is to test whether the user can successfully use either (or both) views to show results. |
+| **Steps to be performed** | 1. Instruct the user to perfom a filter to show existing study groups.|
+| |2. Get the user to return recommended study groups in list view.|
+| |3. Get the user to return recommended study groups in map view.|
+| **Record Result** | Time taken to search|
+| **Pass/Fail** | |
+| **Pass:**| The user successfully applies approriate filters, and returns either map or list view (or both).|
+| **Fail:**|Failure to complete the task without help|
+| |There is a bug within the application|
 
 | **Test Case 2** |  |
 |---|---|
