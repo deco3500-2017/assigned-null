@@ -26,6 +26,8 @@ The bare minimum that we plan to roll out for Study mates:
 ## Storyboard(s)
 (Include image here)
 
+## Schema
+![image0](https://imgur.com/X4SVYF2.png)
 
 
 ## Mockups (Screenshots)
