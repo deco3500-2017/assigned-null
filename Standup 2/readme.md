@@ -104,21 +104,31 @@ The bare minimum that we plan to roll out for Study mates:
 | **Fail:**|Failure to complete the task without help|
 | |There is a bug within the application|
 
-| **Test Case 4** |  |
+| **Test Case 4** | Message Individual and Message Group  |
 |---|---|
-| **Rationale** |  |
-| **Goal** |  |
-| **Steps to be performed** |  |
-| **Record Result** |  |
-| **Pass/Fail** |  |
+| **Rationale** | Individuals need to be able to have a method of communication to discuss missed items, provide more information or keep records. |
+| **Goal** | The goal of the test case is to test whether the user can successfully message both an individual or a group. |
+| **Steps to be performed** | 1. Instruct the user to proceed to the messaging area.|
+| |2. Get the user to create a message for another individual in their list.|
+| |3. Get the user to create a message for a group in their list.|
+| **Record Result** | Time taken to create messages|
+| **Pass/Fail** | |
+| **Pass:**| The user successfully messages both an individual and a group|
+| **Fail:**|Failure to complete the task without help|
+| |There is a bug within the application|
 
-| **Test Case 5** |  |
+| **Test Case 5** | Create Group Meetup  |
 |---|---|
-| **Rationale** |  |
-| **Goal** |  |
-| **Steps to be performed** |  |
-| **Record Result** |  |
-| **Pass/Fail** |  |
+| **Rationale** | Study groups are beneficial, with the ability to organize meetups being very advantageous for collaboration. |
+| **Goal** | The goal of the test case is to test whether the user can successfully create a study group meetup at a specified location and time. |
+| **Steps to be performed** | 1. Instruct the user to proceed to create a meetup.|
+| |2. Get the user to fill out the appropriate fields.|
+| |3. Get the user to finalize the meetup and create it.|
+| **Record Result** | Time taken to create group meetup|
+| **Pass/Fail** | |
+| **Pass:**| The user successfully creates a group meetup|
+| **Fail:**|Failure to complete the task without help|
+| |There is a bug within the application|
 
 ## Test Protocol
 ### Preperation (before participant arrives)
