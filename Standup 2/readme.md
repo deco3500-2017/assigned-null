@@ -20,7 +20,7 @@
  
 
 ## User Testing and Interviews
-Continuation of Uset Testing was performed to allow for a greater idea of our progress with Study Mates.
+Continuation of User Testing was performed to allow for a greater idea of our progress with Study Mates.
 
 
 ## Minimum Viable Product
@@ -68,16 +68,25 @@ The bare minimum that we plan to roll out for Study mates:
 * Did you find it easy to filter study groups and meetups?
 
 ### Choose
-* 
+* Questionaire
+* Interview
+* Observation
+ 
 ### Identify
-* 
+* Does it provide sufficient feedback?
+* Is the error handling clear?
+* Is it easy to understand and learn?
+* Does the underlying paradigm make sense?
+* Is it convenient?
+
 ### Deal
 * Location sharing permissions
 * Account information access (sharing university UQ single sign-on info)
 * Personal information such as availability and courses participated in
 
 ### Evaluate
-* 
+* Quantitative: Timing the user with task performance
+* Qualitative: Questionaire and discussion with user
 
 
 ## Test Cases
