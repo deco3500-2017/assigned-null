@@ -1,6 +1,7 @@
 # Week 10 Update
 ### 03/10/2017
 
+
 ## Resources
 * Zone: https://study-mates.uqcloud.net/
 * Interactive web prototype: Marvel?
@@ -9,7 +10,8 @@
 * Digital Prototype Questionaire : https://docs.google.com/forms/d/e/1FAIpQLSdaaOPs-5j2JG1vQ2Vq70YWMqUoDOhVttZLfVqCRad9KAibQQ/viewform
 * Consent Form (PDF): https://study-mates.uqcloud.net/consent-form.pdf
 
-## To Do before next standup deliverable
+
+## To Do before next standup deliverable (Standup 3)
  * Final digital prototype
  * Complete User testing
  * Complete Final user interviews
@@ -20,14 +22,13 @@
 ## User Testing and Interviews
 Continuation of Uset Testing was performed to allow for a greater idea of our progress with Study Mates.
 
+
 ## Minimum Viable Product
 The bare minimum that we plan to roll out for Study mates:
 
+
 ## Storyboard(s)
 (Include image here)
-
-## Schema
-![image0](https://imgur.com/X4SVYF2.png)
 
 
 ## Mockups (Screenshots)
@@ -48,22 +49,38 @@ The bare minimum that we plan to roll out for Study mates:
 ![image5](https://imgur.com/82g3zJ4.png)
 
 
+## Schema
+![image0](https://imgur.com/X4SVYF2.png)
+
+
 ## DECIDE
 ### Determine
--
+* Test whether the user can easily create an account to use study mates
+* Whether a user can find existing study groups and filter them
+* User can show filtered results in a list or map view
+* Test creation of study groups should be able to be performed by users
+* Testing of messaging of both individuals and messaging groups
+* To test whether a group meetup can be performed
+
 ### Explore
--
+* Do you use any similar applications or solutions already?
+* What part/s of the prototype did you find hard to use?
+* Did you find it easy to filter study groups and meetups?
+
 ### Choose
--
+* 
 ### Identify
--
+* 
 ### Deal
--
+* Location sharing permissions
+* Account information access (sharing university UQ single sign-on info)
+* Personal information such as availability and courses participated in
+
 ### Evaluate
--
+* 
+
 
 ## Test Cases
-
 
 | **Test Case 1** | Create Account  |
 |---|---|
@@ -130,6 +147,7 @@ The bare minimum that we plan to roll out for Study mates:
 | **Fail:**|Failure to complete the task without help|
 | |There is a bug within the application|
 
+
 ## Test Protocol
 ### Preperation (before participant arrives)
 * Provide a consent form (either printer or digital) for the participant to use
@@ -138,24 +156,29 @@ The bare minimum that we plan to roll out for Study mates:
 * Device for the digital prototype
 * Questionaire for participant to fill out (pref Google form, as above)
 
+
 ### Introduction
 * Introduce ourselves (or our group) and a summary of the test to be performed
 * A quick run through about the application and its purpose
 * The participant needs to fill out aforementioned consent form, and participation is voluntary and withdrawal can be performed at any time. There will be no reimbursements nor will there be any penalties for incompletion
+
 
 ### Observation Task
 * Provide the participant with instructions, guiding them through the tasks at hand (i.e asking them to perform a task, notifying when next task is beginning)
 * Record the time taken for the participant to perform tasks. Monitor the body language and movements, look for points of failure
 * Ask the participant to make their thoughts verbal as they progress through the tasks
 
+
 ### Questionaire
 * Link: https://docs.google.com/forms/d/e/1FAIpQLSdaaOPs-5j2JG1vQ2Vq70YWMqUoDOhVttZLfVqCRad9KAibQQ/viewform
+
 
 ### Closing
 * Thank the participant for their time
 * Inform them of the benefits of their help, and they are free to view the results of their efforts
 * Remind the participant that their privacy will be upheld, with audio/video being deleted
 * Interpret the results, finalize the task
+
 
 ## Test Reports
 ### Person_ID: 1
@@ -185,16 +208,3 @@ The bare minimum that we plan to roll out for Study mates:
 ![font3](https://imgs1.fontbrain.com/imgs/62/9a/55a7e793da068dc580d184cc0e31/sp-720x400-333333-penultimate@2x.png)
 
 ### Themes
-
-
-
-
-
-
-
-
-
-
-
-
-
