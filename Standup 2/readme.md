@@ -63,7 +63,22 @@ The bare minimum that we plan to roll out for Study mates:
 -
 
 ## Test Cases
+
+
 | **Test Case 1** |  |
+|---|---|
+| **Rationale** | Study Mates is for UQ students (and extension of staff). As such, it should only be accessible to those members. To use study mates, an account is required, which will consist of making use of 'UQ Single Sign-on' to login in and automatically retrieve student email, student number, student name and undergrad/postgrad/staff.|
+| **Goal** | The goal of the test case is to test whether the user can successfully login using 'UQ single sign-on and fill the remaining fields to create their account. |
+| **Steps to be performed** | 1. Instruct the user login with 'UQ single sign-on'.|
+| |2. Get the user to check/verify the prefilled fields.|
+| |3. Get the user to continue with remaining fields and register their account.|
+| **Record Result** | Time taken to search|
+| **Pass/Fail** | |
+| **Pass:**| The user successfully applies logins to 'UQ single sign-on, and finishes creating their account.|
+| **Fail:**|Failure to complete the task without help|
+| |There is a bug within the application|
+
+| **Test Case 2** |  |
 |---|---|
 | **Rationale** | When searching for a suitable, existing study group, the user needs to be able to view the results. Whether this be in either a list view or in a map view. This will be so that the user can easily filter, with map view being beneficial for location filtering, while list view being suitable for time and other fields. |
 | **Goal** | The goal of the test case is to test whether the user can successfully use either (or both) views to show results. |
@@ -75,14 +90,6 @@ The bare minimum that we plan to roll out for Study mates:
 | **Pass:**| The user successfully applies approriate filters, and returns either map or list view (or both).|
 | **Fail:**|Failure to complete the task without help|
 | |There is a bug within the application|
-
-| **Test Case 2** |  |
-|---|---|
-| **Rationale** |  |
-| **Goal** |  |
-| **Steps to be performed** |  |
-| **Record Result** |  |
-| **Pass/Fail** |  |
 
 | **Test Case 3** |  |
 |---|---|
