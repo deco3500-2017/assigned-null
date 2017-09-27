@@ -65,20 +65,20 @@ The bare minimum that we plan to roll out for Study mates:
 ## Test Cases
 
 
-| **Test Case 1** |  |
+| **Test Case 1** | Create Account  |
 |---|---|
 | **Rationale** | Study Mates is for UQ students (and extension of staff). As such, it should only be accessible to those members. To use study mates, an account is required, which will consist of making use of 'UQ Single Sign-on' to login in and automatically retrieve student email, student number, student name and undergrad/postgrad/staff.|
 | **Goal** | The goal of the test case is to test whether the user can successfully login using 'UQ single sign-on and fill the remaining fields to create their account. |
 | **Steps to be performed** | 1. Instruct the user login with 'UQ single sign-on'.|
 | |2. Get the user to check/verify the prefilled fields.|
 | |3. Get the user to continue with remaining fields and register their account.|
-| **Record Result** | Time taken to search|
+| **Record Result** | Time taken to create account|
 | **Pass/Fail** | |
 | **Pass:**| The user successfully applies logins to 'UQ single sign-on, and finishes creating their account.|
 | **Fail:**|Failure to complete the task without help|
 | |There is a bug within the application|
 
-| **Test Case 2** |  |
+| **Test Case 2** | Search Groups |
 |---|---|
 | **Rationale** | When searching for a suitable, existing study group, the user needs to be able to view the results. Whether this be in either a list view or in a map view. This will be so that the user can easily filter, with map view being beneficial for location filtering, while list view being suitable for time and other fields. |
 | **Goal** | The goal of the test case is to test whether the user can successfully use either (or both) views to show results. |
@@ -91,13 +91,18 @@ The bare minimum that we plan to roll out for Study mates:
 | **Fail:**|Failure to complete the task without help|
 | |There is a bug within the application|
 
-| **Test Case 3** |  |
+| **Test Case 3** | Create Group  |
 |---|---|
-| **Rationale** |  |
-| **Goal** |  |
-| **Steps to be performed** |  |
-| **Record Result** |  |
-| **Pass/Fail** |  |
+| **Rationale** | Study groups exist due to crowd sourcing and collaboration. This allows for instantaneous creation and moderation with minimal work on behalf of the developers and admin team of Study Mates. As such, users should be able to create their own groups. |
+| **Goal** | The goal of the test case is to test whether the user can successfully create their own study group. |
+| **Steps to be performed** | 1. Instruct the user to proceed to create a group.|
+| |2. Get the user to fill out the appropriate fields.|
+| |3. Get the user to add any other participants to the group.|
+| **Record Result** | Time taken to create group|
+| **Pass/Fail** | |
+| **Pass:**| The user successfully creates a group and adds participants|
+| **Fail:**|Failure to complete the task without help|
+| |There is a bug within the application|
 
 | **Test Case 4** |  |
 |---|---|
