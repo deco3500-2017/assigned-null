@@ -33,19 +33,6 @@ Interactive Link https://marvelapp.com/9jc9dge
 ## Schema
 <img src="https://imgur.com/X4SVYF2.png" width="500">
 
-
-## User Testing and Interviews
-Continuation of User Testing was performed to allow for a greater idea of our progress with Study Mates.
-
-
-## Minimum Viable Product
-The bare minimum that we plan to roll out for Study mates:
-
-
-## Storyboard(s)
-(Include image here)
-
-
 ## Mockups (Screenshots)
 ### Desktop Website
 <img src="https://imgur.com/l0D36IW.png" width="500">
@@ -211,6 +198,18 @@ The bare minimum that we plan to roll out for Study mates:
 -
 ### Person_ID: 5
 -
+
+## User Testing and Interviews
+Continuation of User Testing was performed to allow for a greater idea of our progress with Study Mates.
+
+
+## Minimum Viable Product
+The bare minimum that we plan to roll out for Study mates:
+
+
+## Storyboard(s)
+(Include image here)
+
 
 ## Colours, Fonts and Themes
 ### Colours
