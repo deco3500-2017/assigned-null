@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Study Mates</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script src="js/jquery-min.js"></script>
+    <script src="js/googleMap.js"></script>
+    <!--<script type="text/javascript" src="js/checkLogin.js"></script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDaa2tLApi588iV8xS40lj2NLH3IKEtkdk&callback=initMap" async defer></script>
+    <!--<script type="text/javascript" src="js/changeLogin.js"></script>-->
+    <link rel="icon" type="image/png" href="image/logo.png" sizes="16x16">
+</head>
+
+<body onLoad="initMap();">
+    <header>
+        <h1> Study Mates </h1>
+    </header>
+    <ul>
+        <li><a href="index.html">Map</a></li>
+        <li><a id="profile-nav" href="profile.html">Profile</a></li>
+        <li id="signin-wrap"><a id="signin" href="login.html">Signin</a></li>
+    </ul>
+    <div id="map" ></div>
+    <div id="signout" class="overlay">
+        <div class="popup">
+            
+            <div class="content">
+                Are you sure you want to sign out of Studymates?
+            </div>
+            <div class="modal-footer">
+                <button class='dialog-buttons' onclick="logout()">Yes</button>
+                <button class='dialog-buttons closex'><a href="#">No</a></button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
