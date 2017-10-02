@@ -209,10 +209,18 @@ The bare minimum that we plan to roll out for Study mates:
 ### Person_ID: 5
 -
 
-
+//https://imgur.com/K8f7MCI.png
+//https://imgur.com/Nd8ca8r.png
 
 ## Colours, Fonts and Themes
 ### Colours
+|**Colour 1**|**Colour 2**|**Colour 3**|
+|---|---|---|
+|<img src="https://imgur.com/8GYSZdX.png" width="500">|<img src="https://imgur.com/r0CEnZF.png" width="500">|<img src="https://imgur.com/njCU8nl.png" width="500">|
+|**Colour 4**|**Colour 5**|**Colour 6**|
+|<img src="https://imgur.com/Hl3HuQR.png" width="500">|<img src="https://imgur.com/RgFpB70.png" width="500">|<img src="https://imgur.com/r3zsMPM.png" width="500">|
+|**Colour 7**|**Colour 8**|**Colour 9**|
+|<img src="https://imgur.com/HAGKY08.png" width="500">|<img src="https://imgur.com/GTgTL6Q.png" width="500">|<img src="https://imgur.com/5RVsiEm.png" width="500">|
 
 ### Fonts
 | | | |
