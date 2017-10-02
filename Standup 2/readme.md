@@ -205,6 +205,17 @@ Continuation of User Testing was performed to allow for a greater idea of our pr
 
 ## Minimum Viable Product
 The bare minimum that we plan to roll out for Study mates:
+* Ability to create group
+* Ability to create meeting
+* Ability to message individual or group
+* Search for meetings on map
+* Search for meeting in filtered list
+* Search for groups in filtered list
+
+Additions we wish to include:
+* Sharable timetable, with meetup integration
+* Directions to location
+* File sharing (for notes)
 
 
 ## Storyboard(s)
