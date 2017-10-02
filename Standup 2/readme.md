@@ -17,7 +17,7 @@
  * Complete Pass/Fail Tests
  * Video (interaction): youtube.com/
  
-## Marvel Screenshots
+## Marvel Prototype - Wes Clarke
 
 Interactive Link https://marvelapp.com/9jc9dge
 
