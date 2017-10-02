@@ -18,32 +18,14 @@
  * Video (interaction): youtube.com/
  
 ## Marvel Screenshots
-### Create Group
-<img src="https://imgur.com/3zdo3hn.png" height="400">
-
-### Existing Groups
-<img src="https://imgur.com/2cCLJw6.png" height="400">
-
-### Location
-<img src="https://imgur.com/3P9lUR7.png" height="400">
-
-### Filter
-<img src="https://imgur.com/gm12AiH.png" height="400">
-
-### Create Account
-<img src="https://imgur.com/rTKQEcj.png" height="400">
-
-### Account
-<img src="https://imgur.com/GkBe4C1.png" height="400">
-
-### Selecting Group
-<img src="https://imgur.com/w43xclB.png" height="400">
-
-### Sign In
-<img src="https://imgur.com/5q2doU7.png" height="400">
-
-### Selecting Time
-<img src="https://imgur.com/022bBD9.png" height="400">
+| | | |
+|---|---|---|
+| **Create Group** | **Existing Groups** | **Location** |
+|<img src="https://imgur.com/3zdo3hn.png" height="450">|<img src="https://imgur.com/2cCLJw6.png" height="450">|<img src="https://imgur.com/3P9lUR7.png" height="450">|
+| **Filter** | **Create Account** | **Account** |
+|<img src="https://imgur.com/gm12AiH.png" height="450">|<img src="https://imgur.com/rTKQEcj.png" height="450">|<img src="https://imgur.com/GkBe4C1.png" height="450">|
+| **Selecting Group** | **Sign In** | **Selecting Time** |
+|<img src="https://imgur.com/w43xclB.png" height="450">|<img src="https://imgur.com/5q2doU7.png" height="450">|<img src="https://imgur.com/022bBD9.png" height="450">|
 
 ## Schema
 <img src="https://imgur.com/X4SVYF2.png" width="500">
