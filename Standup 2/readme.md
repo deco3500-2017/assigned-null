@@ -32,52 +32,53 @@ The bare minimum that we plan to roll out for Study mates:
 
 ## Mockups (Screenshots)
 ### Mobile Website
-![image1](https://imgur.com/l0D36IW.png)
+<img src="https://imgur.com/l0D36IW.png" width="500">
 
 ### Desktop Website
-![image2](https://imgur.com/WGdX8dW.png)
+<img src="https://imgur.com/WGdX8dW.png" height="400">
 
 ### Current Study Locations
-![image3](https://imgur.com/kbsgTX1.png)
+<img src="https://imgur.com/kbsgTX1.png" height="400">
 
 ### Mobile Application (Android and iOS)
 #### Android
 ![image4]
 
 #### iOS
-![image5](https://imgur.com/82g3zJ4.png)
+<img src="https://imgur.com/82g3zJ4.png" height="400">
+
 
 
 ## Schema
-![image0](https://imgur.com/X4SVYF2.png)
+<img src="https://imgur.com/X4SVYF2.png" width="500">
 
 ## Marvel Screenshots
 ### Create Group
-![Create Group](https://imgur.com/3zdo3hn.png)
+<img src="https://imgur.com/3zdo3hn.png" height="400">
 
 ### Existing Groups
-![Existing Groups](https://imgur.com/2cCLJw6.png)
+<img src="https://imgur.com/2cCLJw6.png" height="400">
 
 ### Location
-![Location](https://imgur.com/3P9lUR7.png)
+<img src="https://imgur.com/3P9lUR7.png" height="400">
 
 ### Filter
-![Filter](https://imgur.com/gm12AiH.png)
+<img src="https://imgur.com/gm12AiH.png" height="400">
 
 ### Create Account
-![Create Account](https://imgur.com/rTKQEcj.png)
+<img src="https://imgur.com/rTKQEcj.png" height="400">
 
 ### Account
-![Account](https://imgur.com/GkBe4C1.png)
+<img src="https://imgur.com/GkBe4C1.png" height="400">
 
 ### Selecting Group
-![Selecting Group](https://imgur.com/w43xclB.png)
+<img src="https://imgur.com/w43xclB.png" height="400">
 
 ### Sign In
-![Sign In](https://imgur.com/5q2doU7.png)
+<img src="https://imgur.com/5q2doU7.png" height="400">
 
 ### Selecting Time
-![Selecting Time](https://imgur.com/022bBD9.png)
+<img src="https://imgur.com/022bBD9.png" height="400">
 
 ## DECIDE
 ### Determine
