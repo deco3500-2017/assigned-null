@@ -13,7 +13,7 @@
 ## To Do before next standup deliverable (Standup 3)
  * Final digital prototype
  * Complete User testing
- * Complete Final user interviews
+ * Complete Final User interviews
  * Complete Pass/Fail Tests
  * Video (interaction): youtube.com/
  
@@ -51,6 +51,33 @@ The bare minimum that we plan to roll out for Study mates:
 ## Schema
 ![image0](https://imgur.com/X4SVYF2.png)
 
+## Marvel Screenshots
+### Create Group
+![Create Group](https://imgur.com/3zdo3hn.png)
+
+### Existing Groups
+![Existing Groups](https://imgur.com/2cCLJw6.png)
+
+### Location
+![Location](https://imgur.com/3P9lUR7.png)
+
+### Filter
+![Filter](https://imgur.com/gm12AiH.png)
+
+### Create Account
+![Create Account](https://imgur.com/rTKQEcj.png)
+
+### Account
+![Account](https://imgur.com/GkBe4C1.png)
+
+### Selecting Group
+![Selecting Group](https://imgur.com/w43xclB.png)
+
+### Sign In
+![Sign In](https://imgur.com/5q2doU7.png)
+
+### Selecting Time
+![Selecting Time](https://imgur.com/022bBD9.png)
 
 ## DECIDE
 ### Determine
