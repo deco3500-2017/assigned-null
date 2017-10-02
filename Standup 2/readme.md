@@ -4,9 +4,8 @@
 
 ## Resources
 * Zone: https://study-mates.uqcloud.net/
-* Interactive web prototype: Marvel?
+* Interactive web prototype: https://marvelapp.com/9jc9dge
 * Google Maps: https://developers.google.com/maps/
-* Video (interaction): youtube.com/
 * Digital Prototype Questionaire : https://docs.google.com/forms/d/e/1FAIpQLSdaaOPs-5j2JG1vQ2Vq70YWMqUoDOhVttZLfVqCRad9KAibQQ/viewform
 * Consent Form (PDF): https://study-mates.uqcloud.net/consent-form.pdf
 
@@ -16,7 +15,7 @@
  * Complete User testing
  * Complete Final user interviews
  * Complete Pass/Fail Tests
- * Video
+ * Video (interaction): youtube.com/
  
 
 ## User Testing and Interviews
