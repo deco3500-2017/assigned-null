@@ -17,6 +17,37 @@
  * Complete Pass/Fail Tests
  * Video (interaction): youtube.com/
  
+## Marvel Screenshots
+### Create Group
+<img src="https://imgur.com/3zdo3hn.png" height="400">
+
+### Existing Groups
+<img src="https://imgur.com/2cCLJw6.png" height="400">
+
+### Location
+<img src="https://imgur.com/3P9lUR7.png" height="400">
+
+### Filter
+<img src="https://imgur.com/gm12AiH.png" height="400">
+
+### Create Account
+<img src="https://imgur.com/rTKQEcj.png" height="400">
+
+### Account
+<img src="https://imgur.com/GkBe4C1.png" height="400">
+
+### Selecting Group
+<img src="https://imgur.com/w43xclB.png" height="400">
+
+### Sign In
+<img src="https://imgur.com/5q2doU7.png" height="400">
+
+### Selecting Time
+<img src="https://imgur.com/022bBD9.png" height="400">
+
+## Schema
+<img src="https://imgur.com/X4SVYF2.png" width="500">
+
 
 ## User Testing and Interviews
 Continuation of User Testing was performed to allow for a greater idea of our progress with Study Mates.
@@ -47,38 +78,6 @@ The bare minimum that we plan to roll out for Study mates:
 #### iOS
 <img src="https://imgur.com/82g3zJ4.png" height="400">
 
-
-
-## Schema
-<img src="https://imgur.com/X4SVYF2.png" width="500">
-
-## Marvel Screenshots
-### Create Group
-<img src="https://imgur.com/3zdo3hn.png" height="400">
-
-### Existing Groups
-<img src="https://imgur.com/2cCLJw6.png" height="400">
-
-### Location
-<img src="https://imgur.com/3P9lUR7.png" height="400">
-
-### Filter
-<img src="https://imgur.com/gm12AiH.png" height="400">
-
-### Create Account
-<img src="https://imgur.com/rTKQEcj.png" height="400">
-
-### Account
-<img src="https://imgur.com/GkBe4C1.png" height="400">
-
-### Selecting Group
-<img src="https://imgur.com/w43xclB.png" height="400">
-
-### Sign In
-<img src="https://imgur.com/5q2doU7.png" height="400">
-
-### Selecting Time
-<img src="https://imgur.com/022bBD9.png" height="400">
 
 ## DECIDE
 ### Determine
@@ -235,12 +234,12 @@ The bare minimum that we plan to roll out for Study mates:
 
 ### Fonts
 #### Roboto
-![font1](https://imgs2.fontbrain.com/imgs/54/a9/1b0619ccf9373d525109268219dc/sp-720x400-333333-penultimate@2x.png)
+<img src="https://imgs2.fontbrain.com/imgs/54/a9/1b0619ccf9373d525109268219dc/sp-720x400-333333-penultimate@2x.png" width="500">
 
 #### Abeezee
-![font2](https://imgs4.fontbrain.com/imgs/f9/a5/c45277e6555adc7ee38e9a48a241/sp-720x400-333333-penultimate@2x.png)
+<img src="https://imgs4.fontbrain.com/imgs/f9/a5/c45277e6555adc7ee38e9a48a241/sp-720x400-333333-penultimate@2x.png" width="500">
 
 #### Open Sans
-![font3](https://imgs1.fontbrain.com/imgs/62/9a/55a7e793da068dc580d184cc0e31/sp-720x400-333333-penultimate@2x.png)
+<img src="https://imgs1.fontbrain.com/imgs/62/9a/55a7e793da068dc580d184cc0e31/sp-720x400-333333-penultimate@2x.png" width="500">
 
 ### Themes
