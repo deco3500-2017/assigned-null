@@ -47,10 +47,10 @@ The bare minimum that we plan to roll out for Study mates:
 
 
 ## Mockups (Screenshots)
-### Mobile Website
+### Desktop Website
 <img src="https://imgur.com/l0D36IW.png" width="500">
 
-### Desktop Website
+### Mobile Website
 <img src="https://imgur.com/WGdX8dW.png" height="400">
 
 ### Current Study Locations
