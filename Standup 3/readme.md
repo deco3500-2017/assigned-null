@@ -32,12 +32,12 @@ User run-throughs
 
 I gave three random people the interactive prototype and asked them to do specific tasks which i roughly timed in non-lab conditions. I then asked a few questions that i thought would be helpful to gather feedback in this context. They were given a brief overview of what the application was supposed to do.
 Tasks
-Access the map filter: Average time 4 seconds
+Access the map filter: Average time 4 seconds.
 Reduce the course search to “Discrete Maths”: AVG 11 seconds.
 Set the time for now, have it end in an hour and submit: AVG 25 seconds.
-Select an ongoing study group: AVG 8 seconds
-Go to your profile: 6 seconds
-Sign out: 4 seconds
+Select an ongoing study group: AVG 8 seconds.
+Go to your profile: 6 seconds.
+Sign out: 4 seconds.
 
 User feedback
 All of them found the website to be aesthetically pleasing, the response was positive aside from the yellow bars on the profile page.
