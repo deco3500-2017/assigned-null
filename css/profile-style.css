@@ -1,0 +1,34 @@
+
+#profilePic {
+	height:100%;
+	 padding-bottom:10px;
+}
+#profilePic button {
+	 width:50%;
+}
+	 
+#courses ul {
+	background-color: yellow;
+	width:80%;
+	margin: auto;
+}
+
+#courses li {
+	display: block;
+	float: none;
+	border: 2px solid black;
+	
+}
+
+img {
+	width:50%;
+	border: 1px solid black;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px; 
+	
+}
+
+p{
+	font-size: 14px;
+}
