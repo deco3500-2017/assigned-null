@@ -3,12 +3,16 @@
 
 ## Digital Prototype - Jaymes
 
-Added meetings to the digital prototype for user interaction.
-To test user interaction, a total of 25 markers are placed at random on the map, containing the meeting information.
-The information includes the meeting ID, the start and end times, current group size.
+Meetings were added to the digital prototype, to test user interaction.
+A total of 25 markers are placed at random on the map, containing the meeting information.
+The information includes the meeting ID, the start/end times and current group size.
+A small group of 8 users were tested to show functionality and understanding of meetings on the map.
+Their task was simple, to open up the page, find a meeting and interpret the information.
+No formal questions were asked to the users, just an interview with them providing feedback.
 After user testing, this was refined to be updated to include a group name, building/room number and a short description as users found the explanation was lacking.
-A legend is required to inform the user as to the colours of markers.
-It is not evident that markers are clickable, refinement will need to be made to make this clear to the user
+In addition, a legend is required to inform the user as to the colours of markers.
+Users found it was not evident that markers are clickable, refinement will need to be made to make this clear to the user.
+The addition of a users location, and the option of directions was also recommended.
 
 ### Original
 <img src="https://imgur.com/9V1ktNY.png" width="500">
