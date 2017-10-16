@@ -9,8 +9,10 @@ The information includes the meeting ID, the start and end times, current group 
 After user testing, this was refined to be updated to include a group name, building/room number and a short description as users found the explanation was lacking.
 A legend is required to inform the user as to the colours of markers.
 It is not evident that markers are clickable, refinement will need to be made to make this clear to the user
+
 ### Original
 <img src="https://imgur.com/9V1ktNY.png" width="500">
+
 ### Updated
 <img src="https://imgur.com/n3BJRV9.png" width="500">
 
