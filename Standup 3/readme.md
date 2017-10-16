@@ -13,6 +13,7 @@ No formal questions were asked to the users, just an interview with them providi
 * In addition, a legend is required to inform the user as to the colours of markers.
 * Users found it was not evident that markers are clickable, refinement will need to be made to make this clear to the user.
 * The addition of a users location, and the option of directions was also recommended.
+* Changing a markers size to reflect the group size, so as to easily see important functions that could be hosted
 
 ### Original
 <img src="https://imgur.com/9V1ktNY.png" width="500">
