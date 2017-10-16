@@ -1,0 +1,67 @@
+
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 100%; /* Could be more or less, depending on screen size */
+	height: 100%;
+}
+
+span, form-control{
+	width:10px;
+}
+.btn {
+	width:80px;
+	margin-bottom: 5px;
+}
+
+.row {
+	border-bottom: black 1px solid;
+	margin-bottom: 5px;
+}
+
+.legendItem {
+	width: 70px;
+	float: left;
+	margin: 0px;
+	padding:0px;
+	margin-left: 5px;
+
+}
+
+.legendContainer{
+	width: 160px;
+	margin: 0px;
+	padding:0px;
+}
+
+
+#legend {
+	background: white;
+	text-align: center;
+	border: black 1px solid;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-top:5px;
+	
+}
+
+img {
+	width: 15px;
+}
+#topics, #courses {
+		background-color: grey;
+	text-align: center;
+	padding-top:5px;
+	margin-bottom:5px;
+}
+
+.c, .t {
+	background-color: white;
+	border: 2px solid black;
+	
+	margin-bottom:5px;
+}
