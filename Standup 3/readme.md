@@ -48,7 +48,7 @@ Highlight on click may be a good idea for better user feedback, since the applic
 Two of the three felt they would be more likely to create an event later in the day, rather than ASAP.
 
 Created the create group page, map filter and legend.
-https://i.imgur.com/EUUqkiR.png
-https://i.imgur.com/sUBWkQs.png
-https://i.imgur.com/WrT2Sp0.png
+<img src="https://i.imgur.com/EUUqkiR.png" height="450">|<img src="https://i.imgur.com/a3V4ap0.png" height="450">
+<img src="https://i.imgur.com/sUBWkQs.png" height="450">|<img src="https://i.imgur.com/a3V4ap0.png" height="450">
+<img src="https://i.imgur.com/WrT2Sp0.png" height="450">|<img src="https://i.imgur.com/a3V4ap0.png" height="450">
 
