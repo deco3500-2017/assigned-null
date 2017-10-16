@@ -22,7 +22,7 @@ Changes:
 |---|---|---|
 | **Map** | **Creating Group** | **Repeat** |
 |<img src="https://i.imgur.com/M4GURKg.png" height="450">|<img src="https://i.imgur.com/a3V4ap0.png" height="450">|<img src="https://i.imgur.com/1QI23nK.png" height="450">|
-| **User started group** | **Joined Groups** | **Account** |
+| **User started group** | **Joined Groups** | **Chat for previously joined groups** |
 |<img src="https://i.imgur.com/Jzhh5iq.png" height="450">|<img src="https://i.imgur.com/OulGqf1.png" height="450">|<img src="https://i.imgur.com/gSJAYSg.png" height="450">|
 | **Chat when joining active group** |  | |
 |<img src="https://i.imgur.com/gLrWMI3.png" height="450">| | |
