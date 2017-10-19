@@ -72,3 +72,15 @@ Created the create group page, map filter and legend.
 <img src="https://i.imgur.com/sUBWkQs.png" height="450">|
 <img src="https://i.imgur.com/WrT2Sp0.png" height="450">|
 
+
+## Working Model - Shashank
+When the user clicks on the markers, the group information page comes up where you have 3 options: Enter Chat, Directions for the meeting and cancel. 
+Enter chat takes you to a group chat where you can chat with other members of the group to get introduced to each other and discuss about your available timings and the meeting of the place. Timestamp of each message is also displayed.
+The "Directions" option provides you with directions to the meeting place which has been decided. It connects with google maps and gives the walking direction from your current location to the meeting place.  
+
+<img src="https://i.imgur.com/kzFTSAP.png" height="450">|
+<img src="https://i.imgur.com/8lLNMHH.png" height="450">|
+<img src="https://i.imgur.com/k9CaVgB.png" height="450">|
+
+
+
