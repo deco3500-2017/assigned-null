@@ -6,11 +6,12 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <script src="js/jquery-min.js"></script>
-    <script src="js/googleMap.js"></script>
     <script src="js/getUQ.js"></script>
+    <script src="js/profile.js"></script>
     <script src="js/dropdownmenu.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDaa2tLApi588iV8xS40lj2NLH3IKEtkdk&callback=initMap" async defer></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/profile-style.css">
     <!--<script type="text/javascript" src="js/checkLogin.js"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>-->
     
@@ -18,7 +19,7 @@
     <link rel="icon" type="image/png" href="image/logo.png" sizes="16x16">
 </head>
 
-<body onLoad="initMap(); getUQ();">
+<body onLoad="getUQ();">
     <ul id="nav-bar">
         <li class="dropdown">
                 <button onclick="myFunction()" class="dropbtn"></button>
@@ -35,6 +36,31 @@
         <li><a id="all-courses" href="index.html">ALL</a></li>
         <li id="signin-wrap"><a id="signin" href="profile.html">Profile</a></li>
     </ul>
-    <div id="map" ></div>
+    <div class="container">
+        <div class="row text-center justify-content-sm-center">
+        <div class="col text-center" >
+            <div id="person"> 
+                
+            </div>
+        </div>
+        </div>
+        <div class="row text-center justify-content-sm-center">
+        <div class="col text-center" >
+            <div id="profilePic"> 
+                <img src= "img/profilePic.jpg">
+                <button class="btn"> Change </button>
+            </div>
+        </div>
+        </div>
+
+    <div id="info">
+        <h3 id="firstname"></h3>
+                <h3 id = "lastname"></h3>
+                <h4 id = "studentnum"></h4>
+                <h4 id = "uqtype"></h4>
+                <h4 id = "email"></h4>
+        
+    </div>
+    
 </body>
 </html>

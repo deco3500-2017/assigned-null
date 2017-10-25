@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Study Mates</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script src="js/jquery-min.js"></script>
+    <script src="js/getUQ.js"></script>
+    <script src="js/dropdownmenu.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<script type="text/javascript" src="js/checkLogin.js"></script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>-->
+    
+    <!--<script type="text/javascript" src="js/changeLogin.js"></script>-->
+    <link rel="icon" type="image/png" href="image/logo.png" sizes="16x16">
+</head>
+
+<body onLoad="initMap(); getUQ();">
+    <ul id="nav-bar">
+        <li class="dropdown">
+                <button onclick="myFunction()" class="dropbtn"></button>
+                <div id="myDropdown" class="dropdown-content">
+                        <a href="index.html">Map</a>
+                        <a href="creategroup.html">Create Group</a>
+                        <a href="createmeeting.html">Create Meeting</a>
+                        <a href="group.html">Group</a>
+                        <a href="meeting.html">Meeting</a>
+                        <a href="messages.html">Messages</a>
+                        <a href="profile.html">My Profile</a>
+                </div>
+        </li>
+        <li><a id="all-courses" href="index.html">ALL</a></li>
+        <li id="signin-wrap"><a id="signin" href="profile.html">Profile</a></li>
+    </ul>
+</body>
+</html>

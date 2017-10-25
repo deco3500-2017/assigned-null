@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Study Mates</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script src="js/jquery-min.js"></script>
+    <script src="js/getUQ.js"></script>
+    <script src="js/dropdownmenu.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!--<script type="text/javascript" src="js/checkLogin.js"></script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>-->
+    
+    <!--<script type="text/javascript" src="js/changeLogin.js"></script>-->
+    <link rel="icon" type="image/png" href="image/logo.png" sizes="16x16">
+</head>
+
+<body onLoad="getUQ();">
+    <ul id="nav-bar">
+        <li class="dropdown">
+                <button onclick="myFunction()" class="dropbtn"></button>
+                <div id="myDropdown" class="dropdown-content">
+                        <a href="index.html">Map</a>
+                        <a href="creategroup.html">Create Group</a>
+                        <a href="createmeeting.html">Create Meeting</a>
+                        <a href="group.html">Group</a>
+                        <a href="meeting.html">Meeting</a>
+                        <a href="messages.html">Messages</a>
+                        <a href="profile.html">My Profile</a>
+                </div>
+        </li>
+        <li><a id="all-courses" href="index.html">ALL</a></li>
+        <li id="signin-wrap"><a id="signin" href="profile.html">Profile</a></li>
+    </ul>
+
+
+<form id="createGroup" method="post">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <h2> Create Group</h2>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group" >
+                        <label for="Name">Group name </label>
+                        <input type="text" class="form-control" name="Name" id="name">
+                    </div>  
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group" >
+                        <label for="Courses">Course </label>
+                        <select type="text" class="form-control"  name="Courses" id="courses">
+                        
+                        </select>
+                    </div>  
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group" >
+                        <label for="Topic">Topic (optional) </label>
+                        <input type="text" class="form-control"   name="Topic" id="topic">
+                    </div>  
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group" >
+                        <label for="Desc">Description </label>
+                        <input type="text" class="form-control"  name="Desc" id="desc">
+                    </div>  
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="col-xs-7 col-sm-7 col-sm-offset-1">
+                        <div class="form-group" >
+                            <label for="StartTime">From </label>
+                            <input type="text" class="form-control"  name="StartTime" id="startTime"  placeholder="xx:xx">
+                        </div>  
+                    </div>
+
+                    <div class="col-xs-5 col-sm-4 ">
+                        <div class="form-group">
+                            <label for="AM/PM"></label>
+                                <select class="form-control" name="AM/PM"id="am/pm" style="width: 80px; margin-top:5px; margin-left:-25px;">    
+                                    <option>AM</option>
+                                    <option>PM</option>
+                                </select>
+                        </div>  
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="col-xs-7 col-sm-7 col-sm-offset-1">
+                        <div class="form-group" >
+                            <label for="EndTime">To </label>
+                            <input type="text" class="form-control" name="EndTime" id="endTime" placeholder="xx:xx">
+                        </div>  
+                    </div>
+
+                    <div class="col-xs-5 col-sm-4 ">
+                        <div class="form-group">
+                            <label for="AM/PM2"></label>
+                                <select class="form-control" name="AM/PM2" id="am/pm2" style="width: 80px; margin-top:5px; margin-left:-25px;"> 
+                                    <option>AM</option>
+                                    <option>PM</option>
+                                </select>
+                        </div>  
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group" >
+                        <label for="name">Location</label>
+                        <input type="text" class="form-control"  id="startTime">
+                    </div>  
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group" >
+                        <label for="name">Room Number</label>
+                        <input type="text" class="form-control"  id="startTime">
+                    </div>  
+                </div>
+				<div class="col-xs-12 col-sm-12">
+				<div class="col-xs-6 col-sm-4 col-sm-offset-4 col-xs-offset-3">
+                    <div class="form-group" >
+                        <a href="index.html"><button type="submit" class="form-control"  id="submit">Submit</a>
+                    </div>  
+                </div>
+				</div>
+            </div>
+        </form>
+
+
+</body>
+</html>
