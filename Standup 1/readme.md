@@ -347,3 +347,6 @@ The course content itself works as an ice breaker, as does having many people in
 ![image4](https://imgur.com/w81Bc4A.png)
 ![image5](https://imgur.com/TeIaeuP.png)
 
+| **Daniel Burke**|
+| ---- |
+|Contributed to interviewing the target audience and identifying pain points| 
