@@ -350,4 +350,5 @@ The course content itself works as an ice breaker, as does having many people in
 | **Daniel Burke**|
 | ---- |
 Contributed to interviewing the target audience 
-identifying pain points 
+identified pain points 
+Added additional detail to the wireframes
