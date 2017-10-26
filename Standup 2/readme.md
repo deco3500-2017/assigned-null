@@ -239,3 +239,6 @@ Additions we wish to include:
 |<img src="https://imgs2.fontbrain.com/imgs/54/a9/1b0619ccf9373d525109268219dc/sp-720x400-333333-penultimate@2x.png" width="500">|<img src="https://imgs4.fontbrain.com/imgs/f9/a5/c45277e6555adc7ee38e9a48a241/sp-720x400-333333-penultimate@2x.png" width="500">|<img src="https://imgs1.fontbrain.com/imgs/62/9a/55a7e793da068dc580d184cc0e31/sp-720x400-333333-penultimate@2x.png" width="500">|
 
 ### Themes
+
+### Daniel Burke
+Further user testing via the google form, refined the wireframes. Started with bootstrap.
