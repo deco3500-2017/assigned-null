@@ -48,7 +48,7 @@ Changes:
 |<img src="https://i.imgur.com/gLrWMI3.png" height="450">|<img src="https://i.imgur.com/qCvD3Vx.png" height="450">| |
 
 ##Daniel Burke
-User run-throughs 
+Ran detailed user run-throughs. Added a few new web pages and touched up functionality on others. Implemented a legend and some javascript.
 
 I gave three random people the interactive prototype and asked them to do specific tasks which i roughly timed in non-lab conditions. I then asked a few questions that i thought would be helpful to gather feedback in this context. They were given a brief overview of what the application was supposed to do.
 Tasks
