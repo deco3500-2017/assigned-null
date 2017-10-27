@@ -168,6 +168,13 @@ information about the user such as their name and courses they are
 currently studying. It also allowed us to better test our users using
 the map to discover and join study groups.
 
+Web App follows a Centralized Architecture with all device communicating
+with the same centralized server, serving the web app to device browser.
+The benefits of this is that we can maintain a consistant experience across
+all devices; android, iOS, PC. Only important device access we need is 
+geolocation which is generally suported. If there were many users of our app 
+this may not be an idea architecture as it is a signle point of failure.  
+
 ### User Feedback and Evaluation
 
 User walkthroughs and tests were conducted of both the marvel and Web
