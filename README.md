@@ -89,6 +89,8 @@ study. These advantages include:
 > to avoid it. Study groups bring a positive social aspect where
 > problems can be discussed help making it more enjoyable
 
+*Montclair.edu. (2017). Study Group Tips and Advantages. [online] Available at: https://www.montclair.edu/media/montclairedu/residentialeducation/pdffiles/Study-Group-Tips-and-Advantages-1.pdf [Accessed 18 Aug. 2017].*
+
 ### How we addresses it
 
 Study Mates is a mobile application designed to connect students
