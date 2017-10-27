@@ -19,6 +19,10 @@ Shashank Gururaj | 44888163 | shashankgururaj | DECO7350
 Wes Clarke | 4358277 | wclar6 | DECO3500  
 Daniel Burke | 44012043 | burkdani | DECO7350  
 
+## Promotional Material 
+
+<img src="./DECO3500 Poster.png" />
+
 ## Problem Space
 
 Universities provide the environment to facilitate group study by giving
