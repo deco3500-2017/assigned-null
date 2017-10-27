@@ -225,20 +225,33 @@ Include a list of who did what in the project.
 
 Jaymes Branch
 
--   Created locations on maps, with direction on click. Information
-    windows exist, that display the information about a meeting on
-    marker click.
+-   Created locations on maps, with direction on click. Information windows exist, that display the information about a meeting on marker click.
 
--   Created questionnaires and consent forms for user testing, as well
-    as performing interviews
+-   Created questionnaires and consent forms for user testing, as well as performing interviews
 
--   
+-   Set up Zone 
+
+-   Backend Implementation
+
+-   Maintaining Documentation for Standups
+
 
 Wes Clarke
 
--   Blah
+-   Conducted some initial user interviews
 
--   blah
+-   Evaluating results from user  interviews
+
+-   Maintain documentation for standups 
+
+-   Initial Wireframe designs 
+
+-   Building marvel prototype
+
+-   Ran user tests on marvel prototype
+
+-   Team Conference Poster
+
 
 Shashank Gururaj
 
