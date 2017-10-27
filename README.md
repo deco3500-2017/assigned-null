@@ -166,14 +166,16 @@ testing some interactions and features that would be difficult to
 emulate through marvel. This included using UQ Single Sign On to extract
 information about the user such as their name and courses they are
 currently studying. It also allowed us to better test our users using
-the map to discover and join study groups.
+the map to discover and join study groups. The web also serves as the 
+ideal platform for serving this kind of application
 
 Web App follows a Centralized Architecture with all device communicating
 with the same centralized server, serving the web app to device browser.
 The benefits of this is that we can maintain a consistant experience across
 all devices; android, iOS, PC. Only important device access we need is 
-geolocation which is generally suported. If there were many users of our app 
-this may not be an idea architecture as it is a signle point of failure.  
+geolocation which is generally suported. Depending on the volume of users 
+our app this may not be an idea architecture as it is a signle point of failure.  
+The performance of the app is more reliant on the browser and network connection.
 
 ### User Feedback and Evaluation
 
