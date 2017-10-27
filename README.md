@@ -70,7 +70,7 @@ study. These advantages include:
 > to avoid it. Study groups bring a positive social aspect where
 > problems can be discussed help making it more enjoyable
 
-### How it addresses it
+### How we addresses it
 
 Study Mates is a mobile application designed to connect students
 together by providing a platform where they can organize study group
