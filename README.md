@@ -11,8 +11,8 @@
 * Consent Form (PDF): https://study-mates.uqcloud.net/consent-form.pdf
 
 
-**Study mates** is a simple solution to find other people to meet and study with, whether it be another individual or a group.
-The idea was initially conceived as a way for students to create groups on the go. Allowing students to set a group to their phones location and alerting potential study mates. However, we later had to add scheduling functionality to the prototype. This was because the majority of users tested preferred the option of signing up to joing a future group, rather then setting up a group ASAP. 
+**Study mates** is a simple solution to find other people to meet and study with, whether it be another individual or a group. The basic concept of this idea was conceived because of the problems many university students face in joining a study group. Since many students have very little, if any interation with other students in their courses.
+The idea was initially conceived as a way for students to create groups on the go, allowing students to set a group to their phones location and alerting potential study mates. However, we later had to add scheduling functionality to the prototype. This was because the majority of users tested preferred the option of signing up to joing a future group, rather then setting up a group ASAP. The website was found to be fairly well received aesthetically and users found it easy to use, although testing gleaned useful information to improve the user experience. Initially a tutorial was used to introduce users to the meaning of the different color pins, however it soon became clear that users preferred to have a legend on the screen. 
 ### **Contributors** <br />
 
 Name | Student Number | Github Username | Course   
