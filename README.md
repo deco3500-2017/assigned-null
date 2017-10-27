@@ -4,12 +4,26 @@
 **Team Name** : Equals-Null  
 **Note:** assigned-null for github
 
+#### Final Prototypes
+Interactive Marvel prototype: https://marvelapp.com/9jc9dge
+* Can navigate around the app by clicking on the interface.
+* Clicking anywhere inside the mobile screen will highlight interactable components
+* Represents our final design for our prototype and what we would like to implement into the zone
+
+Zone Web App: https://study-mates.uqcloud.net/
+* Proof of concept for incorporating UQ SSO and Google Maps API
+* You will have to use UQ SSO to sign in and then you will see the web app
+* Should see at the top subjects your currently taking
+* Click on markers to view group details and see navigation
+* Limited functionality outside of that
+
+#### Other Resources
 * Initial User Interview Questions: https://drive.google.com/open?id=1ql6zGOOVPxK1zgsZRtH7CEyDXIX_gV2NVWzuI45syEk
-* Zone Web App: https://study-mates.uqcloud.net/
-* Interactive web prototype: https://marvelapp.com/9jc9dge
+* Wireframes: https://drive.google.com/file/d/0B9Pu9DHDTCw5c01RX3J4M2o1YW8/view?usp=sharing 
 * Google Maps: https://developers.google.com/maps/
 * Digital Prototype Questionaire : https://docs.google.com/forms/d/e/1FAIpQLSdaaOPs-5j2JG1vQ2Vq70YWMqUoDOhVttZLfVqCRad9KAibQQ/viewform
 * Consent Form (PDF): https://study-mates.uqcloud.net/consent-form.pdf
+
 
 ### **Contributors** 
 
