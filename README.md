@@ -21,7 +21,11 @@ Daniel Burke | 44012043 | burkdani | DECO7350
 
 ## Promotional Material 
 
+
 <img src="./DECO3500 Poster.png" />
+
+
+<img src="./FinalPrototypeGif.gif" />
 
 ## Problem Space
 
