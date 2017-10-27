@@ -156,7 +156,9 @@ small group of 8 users were tested to show functionality and
 understanding of meetings on the map. Their task was simple, to open the
 page, find a meeting and interpret the information. No formal questions
 were asked to the users, just an interview with them providing
-feedback.<img src="./media/image3.png" width="251" height="512" />
+feedback.
+
+<img src="./media/image3.png" width="251" height="512" />
 
 The following changes and recommendations were then incorporated into
 our prototype:
@@ -186,7 +188,9 @@ google forms but was conducted in an informal manner that allowed our
 users to speak up about any issues they had.
 
 The following changes and recommendations were then incorporated into
-our prototype:<img src="./media/image4.png" width="128" height="600" />
+our prototype:
+
+<img src="./media/image4.png" width="128" height="600" />
 
 1.  Colour coded markers to indicate whether groups were currently
     active or scheduled for a later time Also added a legend to help
@@ -213,9 +217,7 @@ group
 -   It was surprising to see that a lot of our users wanted to filter
     the groups they see based on their location within the uni.
 
-|     |
-|-----|
-|     |
+
 
 ## Team Contributions
 
