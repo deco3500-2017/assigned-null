@@ -16,6 +16,7 @@ Zone Web App: https://study-mates.uqcloud.net/
 * Should see at the top subjects your currently taking
 * Click on markers to view group details and see navigation
 * Limited functionality outside of that
+* Represents the type platform (cloud based) we would serve this application
 
 #### Other Resources
 * Initial User Interview Questions: https://drive.google.com/open?id=1ql6zGOOVPxK1zgsZRtH7CEyDXIX_gV2NVWzuI45syEk
@@ -166,16 +167,17 @@ testing some interactions and features that would be difficult to
 emulate through marvel. This included using UQ Single Sign On to extract
 information about the user such as their name and courses they are
 currently studying. It also allowed us to better test our users using
-the map to discover and join study groups. The web also serves as the 
-ideal platform for serving this kind of application
-
+the map to discover and join study groups.
+ 
 Web App follows a Centralized Architecture with all device communicating
 with the same centralized server, serving the web app to device browser.
 The benefits of this is that we can maintain a consistant experience across
-all devices; android, iOS, PC. Only important device access we need is 
-geolocation which is generally suported. Depending on the volume of users 
-our app this may not be an idea architecture as it is a signle point of failure.  
-The performance of the app is more reliant on the browser and network connection.
+all devices; android, iOS, PC, by using tools like bootstrap.
+
+Only important device access we need is geolocation which is generally suported. 
+Depending on the volume of users our app this may not be an idea architecture as
+it is a signle point of failure. The performance of the app is more reliant on the 
+browser and network connection.
 
 ### User Feedback and Evaluation
 
@@ -254,8 +256,6 @@ group
 
 
 ## Team Contributions
-
-Include a list of who did what in the project.
 
 Jaymes Branch
 
