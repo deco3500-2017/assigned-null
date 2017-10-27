@@ -1,4 +1,4 @@
-# Study Mates
+# Study Mates #
 **DECO3500 Project Proposal**
 
 **Team Name** : Equals-Null  
@@ -10,15 +10,23 @@
 * Digital Prototype Questionaire : https://docs.google.com/forms/d/e/1FAIpQLSdaaOPs-5j2JG1vQ2Vq70YWMqUoDOhVttZLfVqCRad9KAibQQ/viewform
 * Consent Form (PDF): https://study-mates.uqcloud.net/consent-form.pdf
 
+### **Contributors** 
 
-Problem Space
+Name | Student Number | Github Username | Course   
+-------------- | ---------- | ----------------- | -----------    
+Jaymes Branch | 43221325 | jaymes95 | DECO3500  
+Shashank Gururaj | 44888163 | shashankgururaj | DECO7350   
+Wes Clarke | 4358277 | wclar6 | DECO3500  
+Daniel Burke | 44012043 | burkdani | DECO7350  
+
+## Problem Space
 
 Universities provide the environment to facilitate group study by giving
 students free access to rooms and tables which groups can be stationed
 at. However, they do not provide tools for students to form and organize
 study groups.
 
-Why is group study necessary?
+### Why is group study necessary?
 
 Group study can provide many benefits to the academic success of
 students. Montclair State University describes many advantages of group
@@ -36,7 +44,6 @@ study. These advantages include:
 > fill in gaps in their knowledge all the while reinforcing their own
 > strengths.
 >
-> • By having the opportunity to explain concepts
 
 4. Develop and Refine Study Skills
 
@@ -59,7 +66,7 @@ study. These advantages include:
 > to avoid it. Study groups bring a positive social aspect where
 > problems can be discussed help making it more enjoyable
 
-How it addresses it
+### How it addresses it
 
 Study Mates is a mobile application designed to connect students
 together by providing a platform where they can organize study group
@@ -70,18 +77,18 @@ these groups. Students can also start study groups by providing the
 details such as subject, time and location and have them appear on the
 map.
 
-Process
+## Process
 
 User Research/Requirements Gathering -&gt; Prototyping &lt;-&gt; User
 Feedback -&gt; Final Prototype
 
-Initial Idea
+### Initial Idea
 
 Develop a mobile app that enables users to join/start study groups in an
 ad-hoc manner. This would allow students to impromptu start study groups
 during free time between classes.
 
-Requirements Gathering
+### Requirements Gathering
 
 To understand potential user requirements for our application interviews
 were conducted on university students to help identify needs and pains
@@ -115,7 +122,7 @@ social and mobile application as it incorporates opportunistic
 interactions with students based on location and supports the ability
 for social interactions.
 
-Initial Conceptual Design to Marvel Prototype
+### Initial Conceptual Design to Marvel Prototype
 
 Wireframes were built to help conceptualize the initial design of the
 prototype by being doing this we could visualize how information would
@@ -123,13 +130,11 @@ be displayed to the user and then
 
 Incorporate this design into a digital prototype using marvel app. This
 digital prototype would allow us to receive greater user feedback on our
-design by closely mocking a fully functioning
-
-application.
+design by closely mocking a fully functioning application.
 
 <img src="./media/image1.png" width="398" height="192" /><img src="./media/image2.png" width="401" height="191" />
 
-Web App Prototype
+### Web App Prototype
 
 A web app also began implementation on the UQ Zones with the goal of
 testing some interactions and features that would be difficult to
@@ -138,7 +143,7 @@ information about the user such as their name and courses they are
 currently studying. It also allowed us to better test our users using
 the map to discover and join study groups.
 
-User Feedback and Evaluation
+### User Feedback and Evaluation
 
 User walkthroughs and tests were conducted of both the marvel and Web
 App prototypes. More updates and additions from our user feedback can be
@@ -212,7 +217,7 @@ group
 |-----|
 |     |
 
-Team Contributions
+## Team Contributions
 
 Include a list of who did what in the project.
 
@@ -265,13 +270,6 @@ Daniel Burke
 
 
  
-### **Contributors** <br />
 
-Name | Student Number | Github Username | Course   
--------------- | ---------- | ----------------- | -----------    
-Jaymes Branch | 43221325 | jaymes95 | DECO3500  
-Shashank Gururaj | 44888163 | shashankgururaj | DECO7350   
-Wes Clarke | 4358277 | wclar6 | DECO3500  
-Daniel Burke | 44012043 | burkdani | DECO7350  
 
 
