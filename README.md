@@ -143,7 +143,7 @@ intends to study.
 By identifying these user requirements, we identify study mates to be a
 social and mobile application as it incorporates opportunistic
 interactions with students based on location and supports the ability
-for social interactions.
+for social interactions their group meet ups as well as chat.
 
 ### Initial Conceptual Design to Marvel Prototype
 
