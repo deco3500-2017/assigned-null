@@ -12,7 +12,7 @@
 
 
 **Study mates** is a simple solution to find other people to meet and study with, whether it be another individual or a group.
-
+The idea was initially conceived as a way for students to create groups on the go. Allowing students to set a group to their phones location and alerting potential study mates. However, we later had to add scheduling functionality to the prototype. This was because the majority of users tested preferred the option of signing up to joing a future group, rather then setting up a group ASAP. 
 ### **Contributors** <br />
 
 Name | Student Number | Github Username | Course   
