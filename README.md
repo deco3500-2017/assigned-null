@@ -16,7 +16,7 @@ Zone Web App: https://study-mates.uqcloud.net/
 * Should see at the top subjects your currently taking
 * Click on markers to view group details and see navigation
 * Limited functionality outside of that
-* Represents the type platform (cloud based) we would serve this application
+* Represents the type of platform (cloud based) we would use for this application
 
 #### Other Resources
 * Initial User Interview Questions: https://drive.google.com/open?id=1ql6zGOOVPxK1zgsZRtH7CEyDXIX_gV2NVWzuI45syEk
@@ -92,7 +92,7 @@ study. These advantages include:
 
 *Montclair.edu. (2017). Study Group Tips and Advantages. [online] Available at: https://www.montclair.edu/media/montclairedu/residentialeducation/pdffiles/Study-Group-Tips-and-Advantages-1.pdf [Accessed 18 Aug. 2017].*
 
-### How we addresses it
+### How we address it
 
 Study Mates is a mobile application designed to connect students
 together by providing a platform where they can organize study group
